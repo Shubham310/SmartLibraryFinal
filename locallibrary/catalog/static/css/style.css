@@ -1,3 +1,20 @@
+.fn-large{
+    font-size: 18px;
+}
+.navbar-inverse{
+    background-color: #512DA8;;
+}
+.fn-light{
+    color: #ddd;
+}
+a:hover{
+    cursor: pointer;
+}
+.footer {
+  background-color: #D1C4E9;
+  margin: 0px auto;
+  padding: 20px 0px; }
+/*
 .sidebar-nav {
     margin-top: 20px;
     padding: 0;
@@ -15,3 +32,4 @@
 	border: 1px solid #ddd;
 	border-radius: 2px;
 }
+*/
